@@ -1,0 +1,9 @@
+[submodule "exercicio-test-unit-01"]
+	path = exercicio-test-unit-01
+	url = https://github.com/JoaoMiguelRita/exercicio-test-unitario-pipeline.git
+[submodule "prova01-unit-test"]
+	path = prova01-unit-test
+	url = https://github.com/JoaoMiguelRita/prova01-unit-test-JoaoMiguel.git
+[submodule "integration-tests-01"]
+	path = integration-tests-01
+	url = https://github.com/JoaoMiguelRita/integration-tests-jest.git
